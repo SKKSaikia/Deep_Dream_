@@ -12,7 +12,7 @@ Before running this .py script, download the weights for the ResNet50 ( image-ne
 
 and make sure the variable weights_path in this script matches the location of the file.
 
-        default_dir = /Users/User/.kera/models/
+        default_dir = /Users/User/.keras/models/
         
 Dependencies:
 -------------
