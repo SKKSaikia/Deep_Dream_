@@ -19,6 +19,7 @@ Dependencies:
     1. tensorflow 1.4
     2. keras 2.1.2
     3. cv2
+    4. CUDA & cuDNN ( GPU )
     
 Motivation:
 -----------
