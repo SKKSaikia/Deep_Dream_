@@ -34,6 +34,4 @@ Nearly all of these images are being created by 'reading the mind' of neural net
 
 If you were to train your own neural network with lots of images of hands then you could generate your own deepdream images from this net and see everything be created from hands.
 
-Here is using MIT's places dataset [implementation](https://www.youtube.com/watch?v=6IgbMiEaFRY). 
-
-People have started to use different datasets already. Here somebody is using MIT's places data: 
+Here is using MIT's places dataset [implementation](https://www.youtube.com/watch?v=6IgbMiEaFRY).
