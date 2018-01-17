@@ -11,6 +11,7 @@ Before running this .py script, download the weights for the ResNet50 ( image-ne
 2. [resnet50_weights_tf_dim_ordering_tf_kernels_notop](https://drive.google.com/open?id=18pj_hzTDIFmYiCumpAVS_QYkLDPJv04E)
 
 and make sure the variable weights_path in this script matches the location of the file.
+
         /default_dir = /Users/User/.kera/models/
         
 Dependencies:
