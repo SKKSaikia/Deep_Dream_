@@ -35,3 +35,7 @@ Nearly all of these images are being created by 'reading the mind' of neural net
 If you were to train your own neural network with lots of images of hands then you could generate your own deepdream images from this net and see everything be created from hands.
 
 Here is using MIT's places dataset [implementation](https://www.youtube.com/watch?v=6IgbMiEaFRY).
+
+We must go deeper: Iterations
+-
+If we apply the algorithm iteratively on its own outputs and apply some zooming after each iteration, we get an endless stream of new impressions, exploring the set of things the network knows about. Here'smy [implemetation]().
