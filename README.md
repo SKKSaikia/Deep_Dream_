@@ -27,3 +27,13 @@ Motivation:
 1. Keras 1.0.6 implementation from [titu1994](https://github.com/titu1994/Deep-Dream).
 2. Keras based on VGG19 weights from [giuseppebonaccorso](https://github.com/giuseppebonaccorso/keras_deepdream).
 3. Deep Dream with Tensorflow from [tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream).
+
+Why are there so many dog heads, Chalices, Japanese-style buildings and eyes being imagined by these neural networks?
+-
+Nearly all of these images are being created by 'reading the mind' of neural networks that were trained on the ImageNet dataset. This dataset has lots of different types of images within it, but there happen to be a ton of dogs, chalices, etc.
+
+If you were to train your own neural network with lots of images of hands then you could generate your own deepdream images from this net and see everything be created from hands.
+
+Here is using MIT's places dataset [implementation](https://www.youtube.com/watch?v=6IgbMiEaFRY). 
+
+People have started to use different datasets already. Here somebody is using MIT's places data: 
