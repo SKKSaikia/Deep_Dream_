@@ -18,8 +18,9 @@ Dependencies:
 -------------
     1. tensorflow 1.4
     2. keras 2.1.2
-    3. cv2
-    4. CUDA & cuDNN ( GPU )
+    3. cv2 ( opencv 3.4+contrib )
+    4. scipy 0.19.1
+    4. CUDA & cuDNN ( GPU ) 8/6 - my system
     
 Motivation:
 -----------
