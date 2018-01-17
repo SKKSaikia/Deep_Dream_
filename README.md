@@ -6,7 +6,7 @@ INPUT : OUTPUT
 
 Weights ( ResNet 50 )
 ---------------------
-Before running this .py script, download the weights for the ResNet50 ( image-net trained ) model at:
+Before running this .py script, download the weights for the ResNet50 ( ImageNet trained ) model at:
 1. [resnet50_weights_tf_dim_ordering_tf_kernels](https://drive.google.com/open?id=1TXWSlWjrrDYW5D5bYJ94Q0spg3nGEEHx)
 2. [resnet50_weights_tf_dim_ordering_tf_kernels_notop](https://drive.google.com/open?id=18pj_hzTDIFmYiCumpAVS_QYkLDPJv04E)
 
