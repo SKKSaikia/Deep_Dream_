@@ -6,7 +6,7 @@ INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers--
 
 Output 2: My Friend #geekodour and me in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
-Output 3: Inception_V3 : You can see how Pig like features are formed in the tree and bushes.
+Output 3: Inception_V3, You can see how Pig like features are formed in the tree and bushes.
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/a.jpg">
 
 Weights ( ResNet 50 )
@@ -20,6 +20,7 @@ and make sure the variable weights_path in this script matches the location of t
         default_dir = /Users/User/.keras/models/
         
 Also download the Inception_V3 weights here : [tf_top](https://drive.google.com/open?id=1jZUnu32vAjiYWVVH8R-25ta8zv4we416), [tf_no_top](https://drive.google.com/open?id=1ILwxc67ZwYWqOjJH8u9DtD79OggtkiAg)
+
 Dependencies:
 -------------
     1. tensorflow 1.4
