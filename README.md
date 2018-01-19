@@ -4,7 +4,7 @@ Keras 2.1.2 & tf 1.4 with model: ResNet 50, implementation of Google's Deep Drea
 INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers---2011-2013/floral-beauty-104552406), [IM2](http://www.pixoto.com/images-photography/abstract/patterns/water-jaws-104547646) ) : OUTPUT
 ---------------
 
-
+<img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
 
 Weights ( ResNet 50 )
 ---------------------
