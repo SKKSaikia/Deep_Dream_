@@ -2,7 +2,7 @@
 #deep_dream
 @SKKSaikia
 
-Majority of code ported from @giuseppebonaccorso
+Majority of code ported from @Giuseppe Bonaccorso
 Try implementing in different models.
 '''
 
