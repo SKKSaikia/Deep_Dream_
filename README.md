@@ -1,5 +1,5 @@
 # Google's Deep_Dream
-Keras 2.1.2 with model: ResNet 50, implementation of Google's Deep Dream, based on the Google [blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), which is based on [Caffe](https://github.com/google/deepdream) and model : GoogLeNet ( aka inception Net ). #deepdream
+Keras 2.1.2 with model: VGG 19, implementation of Google's Deep Dream, based on the Google [blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), which is based on [Caffe](https://github.com/google/deepdream) and model : GoogLeNet ( aka inception Net ). #deepdream
 
 INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers---2011-2013/floral-beauty-104552406), [IM2](http://www.pixoto.com/images-photography/abstract/patterns/water-jaws-104547646) ) : OUTPUT
 ---------------
