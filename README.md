@@ -61,4 +61,4 @@ Here is using MIT's places dataset [implementation](https://www.youtube.com/watc
 
 We must go deeper: Iterations
 -
-If we apply the algorithm iteratively on its own outputs and apply some zooming after each iteration, we get an endless stream of new impressions, exploring the set of things the network knows about. Here's my [implemetation]().
+If we apply the algorithm iteratively on its own outputs and apply some zooming after each iteration, we get an endless stream of new impressions, exploring the set of things the network knows about. Here's my [implemetation](https://youtu.be/ltErZj62dhg). I have added the frames in this repository.
