@@ -49,8 +49,6 @@ Run .py (Start Dreaming):
 -------------
     > python dream.py
 
-<b>Motivation:</b> [giuseppebonaccorso](https://github.com/giuseppebonaccorso/keras_deepdream).
-
 Why are there so many dog heads, Chalices, Japanese-style buildings and eyes being imagined by these neural networks?
 -
 Nearly all of these images are being created by 'reading the mind' of neural networks that were trained on the ImageNet dataset. This dataset has lots of different types of images within it, but there happen to be a ton of dogs, chalices, etc.
