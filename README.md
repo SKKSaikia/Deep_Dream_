@@ -17,9 +17,13 @@ Tweaking the hyperparameters, we have :
         
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/cod_inc.jpg">
 
-Weights ( ResNet 50 )
+Weights ( VGG19 )
 ---------------------
 Before running this .py script, download the weights for the ResNet50 ( ImageNet trained ) model at:
+1. [VGG19_weights_tf_dim_ordering_tf_kernels](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5)
+2. [VGG19_weights_tf_dim_ordering_tf_kernels_notop](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5)
+
+You can also try it on ResNet50, download the weights for ResNet50 model at:
 1. [resnet50_weights_tf_dim_ordering_tf_kernels](https://drive.google.com/open?id=1TXWSlWjrrDYW5D5bYJ94Q0spg3nGEEHx)
 2. [resnet50_weights_tf_dim_ordering_tf_kernels_notop](https://drive.google.com/open?id=18pj_hzTDIFmYiCumpAVS_QYkLDPJv04E)
 
@@ -27,7 +31,7 @@ and make sure the variable weights_path in this script matches the location of t
 
         default_dir = /Users/User/.keras/models/
         
-Also download the Inception_V3 weights here : [tf_top](https://drive.google.com/open?id=1jZUnu32vAjiYWVVH8R-25ta8zv4we416), [tf_no_top](https://drive.google.com/open?id=1ILwxc67ZwYWqOjJH8u9DtD79OggtkiAg)
+Also, download the Inception_V3 weights here : [tf_top](https://drive.google.com/open?id=1jZUnu32vAjiYWVVH8R-25ta8zv4we416), [tf_no_top](https://drive.google.com/open?id=1ILwxc67ZwYWqOjJH8u9DtD79OggtkiAg)
 
 Dependencies:
 -------------
