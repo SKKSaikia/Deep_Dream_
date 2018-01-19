@@ -1,5 +1,5 @@
 # Google's Deep_Dream
-Keras 2.1.2 & tf 1.4 with model: ResNet 50, implementation of Google's Deep Dream, based on the Google [blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), which is based on [Caffe](https://github.com/google/deepdream) and model : GoogLeNet ( aka inception Net ). #deepdream
+Keras 2.1.2 with model: ResNet 50, implementation of Google's Deep Dream, based on the Google [blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html), which is based on [Caffe](https://github.com/google/deepdream) and model : GoogLeNet ( aka inception Net ). #deepdream
 
 INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers---2011-2013/floral-beauty-104552406), [IM2](http://www.pixoto.com/images-photography/abstract/patterns/water-jaws-104547646) ) : OUTPUT
 ---------------
@@ -26,11 +26,9 @@ Also download the Inception_V3 weights here : [tf_top](https://drive.google.com/
 
 Dependencies:
 -------------
-    1. tensorflow 1.4
-    2. keras 2.1.2
-    3. cv2 ( opencv 3.4+contrib )
-    4. scipy 0.19.1
-    4. CUDA & cuDNN ( GPU ), 8/6 & GTX 960m- my system
+    1. keras 2.1.2
+    2. scipy 0.19.1
+    3. CUDA & cuDNN ( GPU ), 8/6 & GTX 960m- my system
     
 Motivation:
 -----------
