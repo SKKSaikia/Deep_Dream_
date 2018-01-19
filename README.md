@@ -19,7 +19,7 @@ Tweaking the hyperparameters, we have :
 
 Weights ( VGG19 )
 ---------------------
-Before running this .py script, download the weights for the ResNet50 ( ImageNet trained ) model at:
+Before running this .py script, download the weights for the VGG19 ( ImageNet trained ) model at:
 1. [VGG19_weights_tf_dim_ordering_tf_kernels](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5)
 2. [VGG19_weights_tf_dim_ordering_tf_kernels_notop](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
