@@ -43,7 +43,7 @@ Dependencies:
 
 Run .py (Start Dreaming):
 -------------
-    > python dream.py img/image.jpg results/dream
+    > python dream.py
 
 Motivation:
 -----------
