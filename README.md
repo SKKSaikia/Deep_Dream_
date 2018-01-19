@@ -7,6 +7,14 @@ INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers--
 
 <b>Output 2:</b> with #geekodour in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
+Tweaking the hyperparameters, we have :
+
+        1step = 0.02
+        num_octave = 5 
+        octave_scale = 1.4  
+        iterations = 4  
+        max_loss = 10.
+        
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/cod_inc.jpg">
 
 Weights ( ResNet 50 )
