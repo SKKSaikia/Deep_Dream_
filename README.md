@@ -3,13 +3,13 @@ Keras 2.1.2 with model: ResNet 50, implementation of Google's Deep Dream, based 
 
 INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers---2011-2013/floral-beauty-104552406), [IM2](http://www.pixoto.com/images-photography/abstract/patterns/water-jaws-104547646) ) : OUTPUT
 ---------------
-Output 1:
+<b>Output 1:</b> Resnet50
 
 Trial ([code](https://github.com/SKKSaikia/Deep_Dream_/blob/master/try.py))
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/google.jpg">
-<b>Output 2:</b> My Friend #geekodour and me in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
+<b>Output 2:</b> with #geekodour in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
-Output 3: Inception_V3, You can see how Pig like features are formed in the tree and bushes.
+<b>Output 3:</b> Inception_V3, You can see how Pig like features are formed in the tree and bushes.
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/a.jpg">
 
 Weights ( ResNet 50 )
@@ -29,7 +29,11 @@ Dependencies:
     1. keras 2.1.2
     2. scipy 0.19.1
     3. CUDA & cuDNN ( GPU ), 8/6 & GTX 960m- my system
-    
+
+Run .py (Start Dreaming):
+-------------
+    > python dream.py img/image.jpg results/dream
+
 Motivation:
 -----------
 1. Keras 1.0.6 implementation from [titu1994](https://github.com/titu1994/Deep-Dream).
