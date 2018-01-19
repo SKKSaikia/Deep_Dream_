@@ -5,12 +5,8 @@ INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers--
 ---------------
 <b>Output 1:</b> Resnet50
 
-Trial ([code](https://github.com/SKKSaikia/Deep_Dream_/blob/master/try.py))
-<img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/google.jpg">
 <b>Output 2:</b> with #geekodour in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
-<b>Output 3:</b> Inception_V3, You can see how Pig like features are formed in the tree and bushes.
-<img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/a.jpg">
 
 Weights ( ResNet 50 )
 ---------------------
