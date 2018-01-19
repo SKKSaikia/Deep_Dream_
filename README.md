@@ -45,11 +45,7 @@ Run .py (Start Dreaming):
 -------------
     > python dream.py
 
-Motivation:
------------
-1. Keras 1.0.6 implementation from [titu1994](https://github.com/titu1994/Deep-Dream).
-2. Keras based on VGG19 weights from [giuseppebonaccorso](https://github.com/giuseppebonaccorso/keras_deepdream).
-3. Deep Dream with Tensorflow from [tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream).
+<b>Motivation:</b> [giuseppebonaccorso](https://github.com/giuseppebonaccorso/keras_deepdream).
 
 Why are there so many dog heads, Chalices, Japanese-style buildings and eyes being imagined by these neural networks?
 -
