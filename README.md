@@ -39,7 +39,11 @@ Dependencies:
 -------------
     1. keras 2.1.2
     2. scipy 0.19.1
-    3. CUDA & cuDNN ( GPU ), 8/6 & GTX 960m- my system
+    3. tensorflow 1.4
+    4. skimage
+    5. numpy
+    6. matplotlib
+    7. CUDA & cuDNN ( GPU ), 8/6 & GTX 960m- my system
 
 Run .py (Start Dreaming):
 -------------
