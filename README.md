@@ -3,7 +3,10 @@ Keras 2.1.2 & tf 1.4 with model: ResNet 50, implementation of Google's Deep Drea
 
 INPUT ( [IM1](http://www.pixoto.com/images-photography/nature-up-close/flowers---2011-2013/floral-beauty-104552406), [IM2](http://www.pixoto.com/images-photography/abstract/patterns/water-jaws-104547646) ) : OUTPUT
 ---------------
+Output 1:
 
+Trial ([code]())
+<img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/google.jpg">
 Output 2: My Friend #geekodour and me in BITs Pilani, dreamed using py script from [here](https://github.com/keras-team/keras/blob/master/examples/deep_dream.py), which uses Inception_V3
 <img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/de.jpg">
 Output 3: Inception_V3, You can see how Pig like features are formed in the tree and bushes.
