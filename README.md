@@ -60,3 +60,7 @@ Here is using MIT's places dataset [implementation](https://www.youtube.com/watc
 We must go deeper: Iterations
 -
 If we apply the algorithm iteratively on its own outputs and apply some zooming after each iteration, we get an endless stream of new impressions, exploring the set of things the network knows about. Here's my [implemetation](https://youtu.be/ltErZj62dhg). I have added the frames in this repository.
+
+Extension : Visualize my face in the Golden gate bridge
+-
+I have downloaded this [photo](https://www.lonelyplanet.com/usa/san-francisco) of the golden gate bridge.Lets try to dream my face, with effects from different layers. 
