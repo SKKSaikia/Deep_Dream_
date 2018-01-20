@@ -64,3 +64,4 @@ If we apply the algorithm iteratively on its own outputs and apply some zooming 
 Extension : Visualize my face in the Golden gate bridge
 -
 I have downloaded this [photo](https://www.lonelyplanet.com/usa/san-francisco) of the golden gate bridge.Lets try to dream my face, with effects from different layers. 
+<img src="https://github.com/SKKSaikia/Deep_Dream_/blob/master/res/skk_.jpg">
